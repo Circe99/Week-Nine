@@ -4,12 +4,15 @@ Here are some photos of the graphs I tried to make using the code you provided:
 ![Image](ConeBeaker_Bargraph.png)
 
 This one was one of the words I tried because I saw it fairly often so I was curious to see if this was as common as Cone Beakers
+
 ![Image](Cup_Bargraph.png)
 
-This one was more for my own entertainment. Realistically there will be very few goblets since they are simply less practical than a cup.
+This one was more for my own entertainment. Realistically there will be very few goblets since they are simply less practical than a cup
+
 ![Image](Goblet_Bargraph.png)
 
 I didn't notice until later that there were some mistakes in the code, so that is why it says Froms instead of Forms ( I corrected that later on with my own code)
+
 ![Image](Withrorn_Bargraph.png)
 
 ![Image](Whithorn_Barplot.png)
