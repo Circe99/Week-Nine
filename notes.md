@@ -11,7 +11,7 @@ This one was more for my own entertainment. Realistically there will be very few
 
 ![Image](Goblet_Bargraph.png)
 
-I didn't notice until later that there were some mistakes in the code, so that is why it says Froms instead of Forms ( I corrected that later on with my own code)
+I didn't notice until later that there were some mistakes in the code, so that is why it says Fomrs instead of Forms (I corrected that later on with my own code)
 
 ![Image](Withrorn_Bargraph.png)
 
